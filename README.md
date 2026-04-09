@@ -4,8 +4,6 @@ An Android application for real-time object recognition using the device camera.
 
 A college project built to study computer vision technologies and create a working prototype of a mobile app with object detection.
 
-![RScan](https://raw.githubusercontent.com/deavers/RScan/master/RScan.png)
-
 ---
 
 ## About
